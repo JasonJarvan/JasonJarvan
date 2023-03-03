@@ -25,7 +25,7 @@ Congratulations on finding here!✨
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;大家好，我是赵日成。</p>
+<p>&emsp;&emsp;大家好，我是日成。</p>
 <p>&emsp;&emsp;毕业于纽约大学计算机工程专业，是一名硕士研究生。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过优秀代码的重用和开源项目的涌现，构建未来。</p>
