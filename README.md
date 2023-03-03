@@ -15,6 +15,35 @@ Congratulations on finding here!✨
 
 ---
 
+#  🙋 Hello
+
+<table>
+<tr><td>
+
+<!-- About me 关于我 -->
+### 🤺 About Me
+  
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
+<p>&emsp;&emsp;大家好，我是赵日成。</p>
+<p>&emsp;&emsp;毕业于纽约大学计算机工程专业，是一名硕士研究生。</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过优秀代码的重用和开源项目的涌现，构建未来。</p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;善听真言，勤于执行。光明磊落，乐善好施。是我的人生信条。</p>
+<p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。</p>
+</td></tr>
+</table>
+
+---
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="center" >
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
@@ -50,15 +79,6 @@ Congratulations on finding here!✨
 [![](https://img.shields.io/badge/-jasonjarvan@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:jasonjarvan@gmail.com)
 [![](https://img.shields.io/badge/-JasonJarvan-252a30?style=flat-square&logo=github&logoColor=white)](https://github.com/JasonJarvan/)
 [![](https://img.shields.io/badge/-%E5%90%8E%E8%A1%97%E6%97%A5%E6%88%90-blue?style=flat-square&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/zhao-cheng-57-99-79)
-
-
----
-
-#### 📊 每周工作报告
-```text
-吃饭   🕓 84h0m   ██████████████░░░░░░░░░░░░ 50.0%
-干活   🕓 84h0m   ██████████████░░░░░░░░░░░░ 50.0%
-```
 
 ---
 
